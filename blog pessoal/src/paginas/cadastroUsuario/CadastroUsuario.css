@@ -1,0 +1,16 @@
+.imagem2{
+    background-image: url(https://www.parmais.com.br/wp-content/uploads/2022.02.22-Atualizacao-Fundos-Exclusivos-Artigo-Blog.png);
+    background-repeat: no-repeat; 
+    width: 100vh; 
+    min-height: 100vh;
+    background-size: cover;
+     background-position: center;
+}
+
+.textos2 {
+    font-weight: bold !important;
+}
+
+.btnCancelar {
+    margin-right: 20px !important;
+}
